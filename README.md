@@ -46,11 +46,11 @@ Output Screenshot:
 
 Image-1:
 
-<img width="205" height="377" alt="image" src="https://github.com/user-attachments/assets/914f49e2-3a9f-4ca3-953d-b4e5a5a2fa71" />
+<img width="305" height="377" alt="image" src="https://github.com/user-attachments/assets/914f49e2-3a9f-4ca3-953d-b4e5a5a2fa71" />
 
 Image-2:
 
-<img width="225" height="377" alt="image" src="https://github.com/user-attachments/assets/5ac12d03-d5a6-4ebd-aa66-b8f93577fe48" />
+<img width="325" height="377" alt="image" src="https://github.com/user-attachments/assets/5ac12d03-d5a6-4ebd-aa66-b8f93577fe48" />
 
 Image-3:
 
